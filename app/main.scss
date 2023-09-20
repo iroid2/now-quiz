@@ -114,6 +114,9 @@ body {
       }
       img {
         width: 100%;
+        @media (max-width: 968px) {
+          height: 280px;
+        }
       }
       li {
         list-style-type: none;
