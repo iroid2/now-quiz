@@ -111,7 +111,7 @@ export default function page() {
               src={"/images/baby-dance.gif"}
               alt=""
               height={600}
-              width={300}
+              width={200}
             />
             <h3>Results</h3>
             <h3>Overall {(result.score / 25) * 100}%</h3>
